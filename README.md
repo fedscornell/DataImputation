@@ -10,5 +10,3 @@ Special thanks to Dr. Quinton Baker, Jerzy Jaromczyk, and Chandler Zachary for t
 
 # Funding: 
 
-This work was supported by the Cornell SC Johnson College of Business and Cooperative Agreement number 58-4000-8-0051 between Cornell University and the Economic Research Service of the U.S. Department of Agriculture. 
-
