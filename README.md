@@ -1,4 +1,4 @@
-# Completing Under-Determined Spatial Agri-Food Data Systems: A Flexible  Bayesian Framework
+# Overcoming Data Barriers in Spatial Agri-Food Systems Analysis: A Flexible Bayesian Framework
 
 This repository is created to share data and code of the vegetable and livestock data imputation program. 
 
@@ -17,7 +17,7 @@ This repository is created to share data and code of the vegetable and livestock
 ## Imputed data:
 
 Vegetable and cattle data are estimated using the model 3 and model 5, respectively, discussed in the manuscript of  
-*Completing Under-Determined Spatial Agri-Food Data Systems: A Flexible  Bayesian Framework*. 
+*Overcoming Data Barriers in Spatial Agri-Food Systems Analysis: A Flexible Bayesian Framework*. 
 
 
 [Download Imputed vegetable data at the county-level](https://github.com/fedscornell/DataImputation/blob/main/Data/vegetables_enhanced.txt?raw=true)
